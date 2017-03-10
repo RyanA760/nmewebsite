@@ -1,0 +1,56 @@
+body {
+	background-image: url(nme_pics/background2.jpg)
+}
+
+.nme {
+	color: lime;
+	height: 150px;
+	width: 1000px;
+	margin: auto;
+	padding: 5px;
+	font-size: 115px;
+	font-family: 'Creepster';
+	text-shadow: 8px 8px gray;
+}
+
+
+.center-intro {
+	color: #ff3300;
+	text-align: center;
+	width: 350px;
+	margin: auto;
+	background-color: #4db8ff;
+	font-family: 'Creepster', cursive, serif;
+	font-size: 25px;
+	opacity: .75;
+}
+
+.sticker {
+	height: auto;
+	width: auto;
+	margin: auto;
+	opacity: .75;
+	padding: 75px;
+	display: inline-block;
+}
+
+.graffiti {
+	float: right;
+	height: auto;
+	width: auto;
+	padding: 10px;
+}
+
+.love {
+	height: auto;
+	width: auto;
+	margin: auto;
+	float: left;
+	padding: 10px;
+}
+
+.name {
+	font-weight: bold;
+	font-size: 45px;
+	margin: 5px;
+}
